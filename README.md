@@ -38,8 +38,6 @@
 
 ## Github Stats
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SantiagoDopazo)](https://github.com/anuraghazra/github-readme-stats
-
 <p align="left">
   <!--- stats (start) -->
 <table align="left">
