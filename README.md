@@ -14,7 +14,7 @@
 
 ### Programing languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,haskell,js,ruby,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ruby)](https://skillicons.dev)
 
 ### Backend Development
 
